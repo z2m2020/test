@@ -18,4 +18,4 @@ management:
   endpoints:
     web:
       exposure:
-        include: reflash
+        include: refresh
